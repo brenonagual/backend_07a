@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Desktop\\backend 07a\\Atividade\\Atividade.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Desktop\\backend 07a\\backend_07a\\backend_07a\\Atividade.csproj",
       "projectName": "Atividade",
-      "projectPath": "C:\\Users\\felip\\OneDrive\\Desktop\\backend 07a\\Atividade\\Atividade.csproj",
+      "projectPath": "C:\\Users\\felip\\OneDrive\\Desktop\\backend 07a\\backend_07a\\backend_07a\\Atividade.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\OneDrive\\Desktop\\backend 07a\\Atividade\\obj\\",
+      "outputPath": "C:\\Users\\felip\\OneDrive\\Desktop\\backend 07a\\backend_07a\\backend_07a\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
